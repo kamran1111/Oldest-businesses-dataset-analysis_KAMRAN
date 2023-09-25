@@ -10,9 +10,6 @@ Based on my learning, I have practiced this project.
 
 In this project, I have analyzed dataset of oldest businesses in the world. The "datasets" folder contains the data used in the project.
 
-"Statement of Academic Integrity"
-The code written in this project is my own. 
-I have completed it after completing the above courses.
-I have not copied code from anywhere, except few hints provided by DataCamp.
+**"Statement of Academic Integrity"** The code written in this project is my own with chunks of already written code provided by DataCamp. I have completed it after completing the above courses. I have not copied code from anywhere, except few hints provided by DataCamp.
 
 Thank you.
